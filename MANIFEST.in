@@ -1,3 +1,4 @@
 include CMakeLists.txt
 graft csrc
 graft include
+recursive-include bitsandbytes *.dll
